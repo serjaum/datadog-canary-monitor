@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    colorize (0.8.1)
+    dogapi (1.40.0)
+      multi_json
+    json (2.3.1)
+    multi_json (1.14.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  colorize!
+  dogapi!
+  json!
+
+BUNDLED WITH
+   2.1.4
