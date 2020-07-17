@@ -70,6 +70,7 @@ OK
 ## The rules
 
 AND = All monitors needs to be OK
+
 OR = If one or more monitors fails, the app will not fail, except if all of the monitors fails
 
 ## Kubernetes
